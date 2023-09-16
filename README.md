@@ -1,3 +1,4 @@
+![Header](./your-header-image-name.png)
 <h1 align="center">Hi 👋, I'm Ethan Li</h1>
 <h3 align="center">An Emory student passionate about data and using it to drive business insights</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
